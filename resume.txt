@@ -1,0 +1,8 @@
+Name: Moksha
+Education: Sai University, Computing and Data Science
+
+Skills: Python, SQL
+
+Projects: 
+
+Experience: Internship at Data Analytics Firm
